@@ -2,7 +2,6 @@ import React from 'react'
 import './App.css'
 import { useRef, useState, useMemo } from 'react'
 import { nanoid } from 'nanoid'
-import profileImg from "./assets/profile-img-3.jpg"
 import { ImagesData } from './component/imagesdata'
  function App() {
 
