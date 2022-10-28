@@ -58,91 +58,91 @@ img:active {
   transform: rotateY(0deg) translateZ(259px);
 }
 .a .item {
-  background: #ed1c24;
+  background: #35343c;
 }
 .b {
   transform: rotateY(24deg) translateZ(240px) rotateY(-24deg);
 }
 .b .item {
-  background: #0072bc;
+  background: #35343c;
 }
 .c {
   transform: rotateY(48deg) translateZ(240px)  rotateY(-48deg);
 }
 .c .item {
-  background: #39b54a;
+  background: #35343c;
 }
 .d {
   transform: rotateY(72deg) translateZ(240px) rotateY(-72deg);
 }
 .d .item {
-  background: #f26522;
+  background: #35343c;
 }
 .e {
   transform: rotateY(96deg) translateZ(240px) rotateY(-96deg);
 } 
 .e .item {
-  background: #630460;
+  background: #35343c;
 }
 .f {
   transform: rotateY(120deg) translateZ(240px) rotateY(-120deg);
 }
 .f .item {
-  background: #8c3982;
+  background: #35343c;
 }
 .g {
   transform: rotateY(144deg) translateZ(240px) rotateY(-144deg);
 }
 .g .item {
-  background: #351b36;
+  background: #35343c;
 }
 .h {
   transform: rotateY(168deg) translateZ(240px) rotateY(-168deg);
 }
 .h .item {
-  background: #3f106f;
+  background: #35343c;
 }
 .i {
   transform: rotateY(192deg) translateZ(240px) rotateY(-192deg);
 }
 .i .item {
-  background: #633f1a;
+  background: #35343c;
 }
 .j {
   transform: rotateY(216deg) translateZ(240px) rotateY(-216deg);
 }
 .j .item {
-  background: #374e99;
+  background: #35343c;
 }
 .k {
   transform: rotateY(240deg) translateZ(240px) rotateY(-240deg);
 }
 .k .item {
-  background: #978c28;
+  background: #35343c;
 }
 .l {
   transform: rotateY(264deg) translateZ(240px) rotateY(-264deg);
 }
 .l .item {
-  background: #47abcf;
+  background: #35343c;
 }
 .m {
   transform: rotateY(288deg) translateZ(240px) rotateY(-288deg);
 }
 .m .item {
-  background: #65398c;
+  background: #35343c;
 }
 .n {
   transform: rotateY(312deg) translateZ(240px) rotateY(-312deg);
 }
 .n .item {
-  background: #50c8ac;
+  background: #35343c;
 }
 .o {
   transform: rotateY(336deg) translateZ(240px) rotateY(-336deg);
 }
 .o .item {
-  background: #6d7e2b;
+  background: #35343c;
 }
 .prev-btn {
   width: 70px;
